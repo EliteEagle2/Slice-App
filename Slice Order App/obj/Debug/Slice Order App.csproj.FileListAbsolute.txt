@@ -1,0 +1,10 @@
+F:\VS\Slice Order App\bin\Debug\Slice Order App.exe.config
+F:\VS\Slice Order App\bin\Debug\Slice Order App.exe
+F:\VS\Slice Order App\bin\Debug\Slice Order App.pdb
+F:\VS\Slice Order App\obj\Debug\Slice Order App.csproj.AssemblyReference.cache
+F:\VS\Slice Order App\obj\Debug\Slice_Order_App.frmStart.resources
+F:\VS\Slice Order App\obj\Debug\Slice_Order_App.Properties.Resources.resources
+F:\VS\Slice Order App\obj\Debug\Slice Order App.csproj.GenerateResource.cache
+F:\VS\Slice Order App\obj\Debug\Slice Order App.csproj.CoreCompileInputs.cache
+F:\VS\Slice Order App\obj\Debug\Slice Order App.exe
+F:\VS\Slice Order App\obj\Debug\Slice Order App.pdb
